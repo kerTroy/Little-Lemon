@@ -5,16 +5,16 @@ const Main = () => {
   return (
   <div className='grid-container'>
     <div className='grid-item-1'>
-      <div className='grid-item-row-1'>Hero Section</div>
+      Hero Section
     </div>
     <div className='grid-item-2'>
-      <div className='grid-item-row-2'>Highlight</div>
+      Highlight
     </div>
     <div className='grid-item-3'>
-      <div className='grid-item-row-3'>Testimonials</div>
+      Testimonials
     </div>
     <div className='grid-item-4'>
-      <div className='grid-item-row-4'>About</div>
+      About
     </div>
   </div>
   )
